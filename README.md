@@ -1,6 +1,4 @@
 # LO-C-1-(Learning-Of-C---Level-1)
-Creating my First Repo (For C Basic)
+These are my C Language Assignments 
 <br>
-The BR is the command for the next line
-<br>
-Adding a new line in VS code
+The Time Duration To Complete These Are : 2 Weeks 
